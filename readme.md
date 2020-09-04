@@ -13,7 +13,6 @@ no need to create a database just head to includes/databaseinfo.php and edit the
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
 XAMPP or any similar service, see the link bellow for XAMPP
 
 ```
