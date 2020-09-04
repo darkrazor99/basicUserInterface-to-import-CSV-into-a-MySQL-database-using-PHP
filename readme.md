@@ -6,7 +6,9 @@ any CSV file can be uploaded as long as it has the name of the field at the firs
 |column1 | column2 | column3 | column4 | column5 |
 |data 1  | data2   | data 3  | data 3  | data 4  |
 ```
-where column1 column2 and so on will be the name of the fields inside the database and the data will be the input for each column
+where column1 column2 and so on will be the name of the fields inside the database and the data will be the input for each column.    
+
+I add a sample CSV file incase you need a refence.
 ## Getting Started
 
 no need to create a database just head to includes/databaseinfo.php and edit the variables according to your convenience
